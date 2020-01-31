@@ -3,3 +3,4 @@
 
 setuptools
 # pyke (not pip installable)  #conda: pyke
+pyke@git+https://github.com/evertrol/pyke3
