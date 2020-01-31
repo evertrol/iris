@@ -252,7 +252,7 @@ with open(os.path.join(SETUP_DIR, "README.md"), "r") as fh:
 
 setup(
     name=pypi_name,
-    version=extract_version(),
+    version='3.0.dev0',
     url="http://scitools.org.uk/iris/",
     author="UK Met Office",
     author_email="scitools-iris-dev@googlegroups.com",
