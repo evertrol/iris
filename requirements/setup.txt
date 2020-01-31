@@ -1,6 +1,7 @@
 # Dependencies necessary to run setup.py of iris
 # ----------------------------------------------
 
+Cython
 setuptools
 # pyke (not pip installable)  #conda: pyke
 pyke@git+https://github.com/evertrol/pyke3

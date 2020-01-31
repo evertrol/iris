@@ -3,7 +3,8 @@
 
 # Without these, iris won't even import.
 
-cartopy>=0.12
+#cartopy@git+https://github.com/SciTools/cartopy
+cartopy
 #conda: proj4<6
 cf-units>=2
 cftime
